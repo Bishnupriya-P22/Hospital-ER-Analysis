@@ -27,7 +27,6 @@ Clean and user-friendly layout for quick insights
 ## Dashboard
 
 ![Hospital ER Dashboard](Dashboard.png)
-![Hospital Logo](assets/hospital_logo.png)
 
 
 
