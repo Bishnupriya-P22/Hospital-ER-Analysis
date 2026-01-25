@@ -1,23 +1,23 @@
 # Hospital-ER-Analysis
-##🔹 Project Overview
+## Project Overview
 
 This project focuses on analyzing hospital emergency room data to understand patient flow, wait times, admission patterns, and satisfaction levels. The dashboard provides quick insights to support data-driven decisions and improve ER operational efficiency.
 
-##🔹 Tools & Technologies Used
+## Tools & Technologies Used
 
 Microsoft Excel – Data analysis and dashboard creation
 Pivot Tables & Charts – Data summarization and visualization
 Excel Formulas – KPI calculations
 Slicers – Interactive filtering by time
 
-##🔹 Data Preparation
+## Data Preparation
 
 Removed duplicate and missing records
 Standardized categorical values
 Formatted date fields for month and year analysis
 Created calculated KPIs such as total patients, average wait time, and satisfaction score
 
-##🔹 Dashboard Features
+## Dashboard Features
 
 KPI cards for patient count, wait time, and satisfaction
 Interactive slicers for time-based analysis
