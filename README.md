@@ -17,7 +17,7 @@ Standardized categorical values
 Formatted date fields for month and year analysis
 Created calculated KPIs such as total patients, average wait time, and satisfaction score
 
-## Dashboard Features
+## 📊  Dashboard Features
 
 KPI cards for patient count, wait time, and satisfaction
 Interactive slicers for time-based analysis
